@@ -1,4 +1,4 @@
-# Connect-4
+# Connect-4-Game
 Client server program written in c. <br/>
 Works in the local network.
 
