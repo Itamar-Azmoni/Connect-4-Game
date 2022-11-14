@@ -1,5 +1,5 @@
 # Connect-4-Game
-Client server program written in c. <br/>
+Client server socket program for Linux written in c. <br/>
 Works in the local network.
 
 ## Setup
